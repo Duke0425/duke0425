@@ -1,3 +1,5 @@
 hello github
 nice
 66
+hello duke 
+nice to meet you
